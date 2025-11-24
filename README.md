@@ -42,7 +42,7 @@ Desenvolver uma interface moderna e interativa que simule uma plataforma de stre
 
 ## 👩‍💻 Sobre a desenvolvedora
 
-Sou desenvolvedora front-end em formação, com experiência em designer e ilustração. Unindo **visão artística e conhecimento técnico**.
+Sou desenvolvedora front-end, com experiência em designer e ilustração. Unindo **visão artística e conhecimento técnico**.
 
 ## 📞 Contato
 
