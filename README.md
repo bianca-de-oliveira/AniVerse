@@ -4,7 +4,7 @@ Projeto pessoal de plataforma de streaming de animes desenvolvido com foco em fr
 
 ## 🚀 Sobre o projeto
 
-KaavaTV é um site inspirado em plataformas como Crunchyroll, criado como estudo pessoal para aprimorar minhas habilidades em **HTML, CSS e JavaScript**. A proposta visual une design minimalista com atmosfera artística inspirada em animação japonesa.
+AniVerse é um site inspirado em plataformas como Crunchyroll, criado como estudo pessoal para aprimorar minhas habilidades em **HTML, CSS e JavaScript**. A proposta visual une design minimalista com atmosfera artística inspirada em animação japonesa.
 
 ## 🛠️ Tecnologias utilizadas
 
