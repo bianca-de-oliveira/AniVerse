@@ -1,4 +1,3 @@
-function clicou(){
+/*function clicou(){
     alert("deu certo!");
-
-}
+}*/
